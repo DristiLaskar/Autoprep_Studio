@@ -1,0 +1,19 @@
+# environments
+venv/
+.venv/
+env/
+
+# python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# generated at runtime
+*.joblib
+autoprep_*/
